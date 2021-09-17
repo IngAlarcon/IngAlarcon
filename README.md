@@ -7,7 +7,7 @@
 ¡Bienvenido a mi Github! ¡Soy Walter Alarcon Desarrollador Full-Stack y actualmente estoy estudiando de forma autodidacta y realizando cursos que complementan y afianzan mis conocimientos!  
 
 #### 🌱  Cosas en las que estoy trabajando actualmente: 
-- Tomando cursos en línea de Argentina Programa [#SéProgramar](https://www.argentina.gob.ar/produccion/argentina-programa/primera-etapa) 
+- Tomando curso en línea de Argentina Programa [#SéProgramar](https://www.argentina.gob.ar/produccion/argentina-programa/primera-etapa) 
 - 
 - 
 
