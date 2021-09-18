@@ -6,12 +6,23 @@
 
 ¡Bienvenido a mi Github! ¡Soy Walter Alarcon Desarrollador Full-Stack y actualmente estoy estudiando de forma autodidacta y realizando cursos que complementan y afianzan mis conocimientos!  
 
-#### 🌱  Cosas en las que estoy trabajando actualmente: 
-- Tomando curso en línea de Argentina Programa [#SéProgramar](https://www.argentina.gob.ar/produccion/argentina-programa/primera-etapa) 
+<h3> •💻 Sobre mí </h3>
+
+- 🤔 &nbsp; Me caracterizo por ser autodidacta, proactivo ycon interes por las nuevas tecnologias.
+
+- 🎓 &nbsp; Studying Computer Science and Engineering at IIIT Vadodara and coding stuffs.
+
+- 🌱 &nbsp; Learning about Cloud Tech, Systems Design.
+
+- ✍️ &nbsp; Pursuing Web Development as hobbies/side hustles.
 - 
-- 
+
 <img align="right" src="https://github.com/IngAlarcon/IngAlarcon/blob/main/Developer.gif"/>
 
+#### 🌱  Cosas en las que estoy trabajando actualmente: 
+- Tomando curso en línea de Argentina Programa [#SéProgramar](https://www.argentina.gob.ar/produccion/argentina-programa/primera-etapa) 
+- Estoy aprendiendo Java Web y mi meta es llegar a dominarlo
+- 
 
 #### :computer: Lenguajes y herramientas de programación:
 <p>
