@@ -8,16 +8,17 @@
 
 <h3> •💻 Sobre mí </h3>
 
-- 🤔 &nbsp; Me caracterizo por ser autodidacta, proactivo y con interes por las nuevas tecnologias.
+- 🤔 &nbsp; Me caracterizo por ser curioso, entusiasta y proactivo, con interes por las nuevas tecnologias.
 
 - 🎓 &nbsp; Me encanta el back-end entender la logica de todo lo que pasa por detras de lo que vemos.
 
 - 🌱 &nbsp; Me gusta aprender cosas nuevas de los demás tanto como ayudar a otros a resolver sus problemas.
 
 - ✍️ &nbsp; Constantemente buscando como mejorar en el campo del diseño web, UX y UI .
-- 
+
 
 <img align="right" src="https://github.com/IngAlarcon/IngAlarcon/blob/main/Developer.gif"/>
+
 
 #### 🌱  Cosas en las que estoy actualmente: 
 - Tomando curso en línea de Argentina Programa [#SéProgramar](https://www.argentina.gob.ar/produccion/argentina-programa/primera-etapa) 
