@@ -4,7 +4,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alarcon-walter)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ing.alarconwalter@gmail.com)
 
-¡Bienvenido a mi Github! ¡Soy [Walter Alarcon] Desarrollador Full-Stack, diseñador ocasional de UI / UX al que le encanta crear sitios web, de Argentina Tierra del fuego, actualmente estoy estudiando de forma autodidacta y realizando cursos que complementan y afianzan mis conocimientos!  
+¡Bienvenido a mi Github! ¡Soy [Walter Alarcon]() Desarrollador Full-Stack, diseñador ocasional de UI / UX al que le encanta crear sitios web, de Argentina Tierra del fuego, actualmente estoy estudiando de forma autodidacta y realizando cursos que complementan y afianzan mis conocimientos!  
 
 <h3> •💻 Sobre mí </h3>
 
